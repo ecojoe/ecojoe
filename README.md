@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+🔭 I’m currently working on resources to aid college biology students learn the concepts in the courses I teach. 
+👯 I’m looking to collaborate on tools that aid students in their learning, Blackboard Ultra tips, and pedagogy strategies. 
 <!--
 **ecojoe/ecojoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
